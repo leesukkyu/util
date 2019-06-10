@@ -1,6 +1,6 @@
-Very minimized JQuery Drag plugin.
+### Very minimized JQuery Drag plugin.
 
-How to use
+##### How to use
 
 ```
 $el.drag({
