@@ -1,5 +1,7 @@
 Very minimized JQuery Drag plugin.
 
+How to use
+
 ```
 $el.drag({
     start: () => {
